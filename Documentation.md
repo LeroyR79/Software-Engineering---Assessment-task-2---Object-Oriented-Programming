@@ -62,3 +62,8 @@ My game could influence attitudes on fuel use, environmental impact with the typ
 My attribute selection directly ignores environmental impacts and problems as none of the attributes chosen in the game incluse environmental impacts
 In order to make my game more focal on environmental problems and impacts i could change the attributes that my cards are based off of into attributes that put more consideration into the environmental impacts of the cars.
 
+#### Legal Impacts:
+By using cars that are pulled straight from carsales.com.au legal problems may arise with copyright issues on these cars and the use of the carsales website in this top trumps game, as well as problems with using pictures of cars which I do not have the license to use or market.
+By using cars from carsales.com.au I ave the responsibility to warn and remind users that these cars are from carsales.com.au and to give credit to the people whose cars I have used in the modelling of the cards.
+To avoid misleading users, I will remind them that these cars are not available for sale through this "Top Trumps" game, as well as reinding them that while the use of cars in the game is relevant, the game has no affiliation with any of the cars used in the game.
+
