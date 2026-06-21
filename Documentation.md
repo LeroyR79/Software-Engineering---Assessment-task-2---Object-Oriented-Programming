@@ -34,4 +34,17 @@ E.g. A lower price of a car is likely to have more Kilometers on the car and a l
 <img width="292" height="632" alt="Part C - Class Design" src="https://github.com/user-attachments/assets/7f4acb35-408f-437e-b536-ef1173d6abea" />
 
 ## Part D - Game Mechanics Design
-**Game Explanation**: 
+**Game Explanation**: At the start of the game each player is dealt cards from the deck. A player will then pick an attribute to compare, each player will then pick a card to compare with the attribute that the player has picked. If a draw occurs, the cards from that round will be set aside and no players will gain any cards from the round, the cards will then be collected by the player who wins the round the follows the drawing round.
+
+**Game Balance:** The cards and the game will be balanced by allowing each card to have a specific attribute that makes it better than another car. This will help to avoid having one card as a "trump" card that will beat every other card no matter what attribute is chosen.
+
+## Part E - Interface and Card Design
+
+#### Card Design
+
+<img width="1108" height="563" alt="Part E - Card Design" src="https://github.com/user-attachments/assets/0438f559-f282-4655-9eeb-34c46e0bfa6c" />
+
+#### Interface Design
+
+<img width="818" height="468" alt="Part E - Interface Design" src="https://github.com/user-attachments/assets/37362b15-7ec3-4117-a579-d8d1253a4dae" />
+
