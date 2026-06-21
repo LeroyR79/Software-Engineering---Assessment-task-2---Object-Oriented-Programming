@@ -48,3 +48,17 @@ E.g. A lower price of a car is likely to have more Kilometers on the car and a l
 
 <img width="818" height="468" alt="Part E - Interface Design" src="https://github.com/user-attachments/assets/37362b15-7ec3-4117-a579-d8d1253a4dae" />
 
+## Part F — Social, Ethical and Legal Implications
+#### Individual Impacts:
+My game could influence a users decision making by having different cards with different and unique parts of the attributes chosen, this will give the user a choice of which card or which attribute to choose to ensure their win.
+My game could somewhat favour biasy by having more expensive cars having better attributes than others.
+As a designer I have the responsibility to make sure that each individual player gets the same information and odds to win at game start.
+
+#### Social Impacts:
+My game may inforce inequalities by having higher priced cars having better attributes as lower priced cars. Further enforcing that having more money can buy you better cars and therefore better attributes on a car. My game might favour people who have prior knowledge about certain cars that are on the cards, and therefore can predict what the attributes of each card may be.
+
+#### Environmental Impacts:
+My game could influence attitudes on fuel use, environmental impact with the types of cars that I use in the game and their environmental impacts (e.g. electric vehicles vs cars that use diesel fuel).
+My attribute selection directly ignores environmental impacts and problems as none of the attributes chosen in the game incluse environmental impacts
+In order to make my game more focal on environmental problems and impacts i could change the attributes that my cards are based off of into attributes that put more consideration into the environmental impacts of the cars.
+
