@@ -1,2 +1,2 @@
 # Software-Engineering---Assessment-task-2---Object-Oriented-Programming
-This repository will be used to hold my necessary theory work for Assessment Task 2
+This repository holds the Object Oriented Engineering Assessment task for the carsales.com.au Top Trumps Game.
